@@ -1,0 +1,25 @@
+
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+]
+-src\main\java\dataAccess\entities\Writer.java,8\4\845dbc4c2afd1431c215e0cbe476c322dd6c0f2c
+k
+;src\main\java\dataAccess\repositories\WriterRepository.java,4\1\41cd673c7d387474e26495f8d0ca57931bcc26f2
+^
+.src\main\java\dataAccess\entities\Article.java,f\a\fab9258326b5e2d8836344c34d4c50d11b267426
+P
+ src\main\java\server\Server.java,c\a\cad614a2afa99fdbd60e9174dcb4b752e10a41cb
+\
+,src\main\java\server\ConnectionToClient.java,8\d\8db81657a2f6b7cd6c4915f3081605d01132d6f4
+l
+<src\main\java\dataAccess\repositories\ConnectionFactory.java,8\5\85d3884080743df70989553980c9d80a01b0ac91
+W
+'src\main\java\server\ServerConsole.java,b\9\b9c680212615f40e1a653a149219572bb5bca698
+l
+<src\main\java\dataAccess\repositories\ArticleRepository.java,0\3\03aa6ebf3de082b3152fb1af2ee968bbebf2ab67
+J
+src\test\java\Testing.java,c\5\c54cfd0e6da7930ccdee6278270ad50a06dc84c1
+R
+"src\main\java\server\Response.java,b\f\bfffb7ebe08161b3cce4ea40b19c9d14dd7dbd79
+f
+6src\main\java\dataAccess\repositories\FormatClass.java,3\8\386dacbc272b4f20012e10086d0edb343e370661

@@ -1,0 +1,6 @@
+
+Hsquid:S1068".Remove this unused "controller" private field.(š·Âëüÿÿÿÿ
+Ysquid:UselessImportCheck"7Remove this unused import 'java.awt.event.ActionEvent'.(Úù“‘
+\squid:UselessImportCheck":Remove this unused import 'java.awt.event.ActionListener'.(Ìä¹
+Fsquid:S1948",Make "controller" transient or serializable.(š·Âëüÿÿÿÿ
+hsquid:MaximumInheritanceDepth"<This class has 6 parents which is greater than 5 authorized.(Ş¶°Ïûÿÿÿÿ

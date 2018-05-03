@@ -1,0 +1,19 @@
+
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+Z
+*src\main\java\presentation\ReaderForm.java,2\c\2cb9b17ebfc8a94409cf0cbadede6814e8f40ee7
+T
+$src\main\java\presentation\Main.java,c\d\cdec46c42512f17827c0869985babc58421e7126
+[
++src\main\java\presentation\WriterForm2.java,1\7\17f74ce2b44beeecd3c78a239815fd9237c7500d
+Z
+*src\main\java\presentation\WriterForm.java,d\2\d25f492870b78015a2db6b4e04451080fb1a0d27
+Z
+*src\main\java\presentation\ChooseForm.java,3\9\39e480f9adcd857e1d56e35f6f3b1d4bcec65d93
+S
+#src\main\java\entities\Article.java,8\3\83d65fb7f0c7e29b87c4e39dfdbc6104b8294642
+P
+ src\main\java\client\Client.java,4\c\4c1ea306a97c5569fd725eea961dabe2e2520b0f
+Z
+*src\main\java\presentation\Controller.java,b\5\b54a9fd03ad381881ebfc55a820073bce94818b6

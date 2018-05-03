@@ -1,0 +1,8 @@
+
+‡"squid:ClassVariableVisibilityCheck"VMake chooseForm a static final constant or non-public and provide accessors if needed.(©Ô†Âýÿÿÿÿ
+‡"squid:ClassVariableVisibilityCheck"VMake writerForm a static final constant or non-public and provide accessors if needed.(íÈÈÙýÿÿÿÿ
+–squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¼²¸Œ
+‚"squid:ClassVariableVisibilityCheck"VMake readerForm a static final constant or non-public and provide accessors if needed.(òàåÏ
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ùâ½Ûûÿÿÿÿ8¡Á‡¦²,
+fsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ç™èV8‰·¦²,
+ƒ"squid:ClassVariableVisibilityCheck"WMake writerForm2 a static final constant or non-public and provide accessors if needed.(ðÄñÎ

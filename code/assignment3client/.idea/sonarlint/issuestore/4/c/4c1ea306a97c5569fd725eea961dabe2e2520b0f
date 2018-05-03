@@ -1,0 +1,33 @@
+
+hsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(—¶Œ
+msquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(÷¹¥¡ùÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(‚¤âøÿÿÿÿ
+›squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(“² ûÿÿÿÿ
+msquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(ºËûùÿÿÿÿ
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÏËÊøÿÿÿÿ8öŞ¦²,
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ã”áÀ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(˜Š¿Ûüÿÿÿÿ
+msquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(Ì…˜Ğúÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÁÇÒîıÿÿÿÿ
+?squid:S00108")Either remove or fill this block of code.(á·¶ß
+Osquid:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(—ÿìøÿÿÿÿ8¥“¦²,
+msquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(ÃøğÒüÿÿÿÿ
+msquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(§†‚Éüÿÿÿÿ
+hsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(ÿË
+›squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(È´Ë›øÿÿÿÿ
+?squid:S1181"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+…"squid:SwitchLastCaseIsDefaultCheck"YComplete cases by adding the missing enum constants or add a default case to this switch.(·€²‘
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+L
+squid:S106"9Replace this use of System.out or System.err by a logger.(ªÌ¤d
+hsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(—šëô
+?squid:S00108")Either remove or fill this block of code.(©Î¥è
+Dsquid:S00108")Either remove or fill this block of code.(ô¯ãŸşÿÿÿÿ
+msquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(ÿŸÙ¡ûÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ

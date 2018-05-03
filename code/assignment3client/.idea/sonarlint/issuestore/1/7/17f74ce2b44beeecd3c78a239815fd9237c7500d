@@ -1,0 +1,11 @@
+
+hsquid:MaximumInheritanceDepth"<This class has 6 parents which is greater than 5 authorized.(åÇ‹ÿÿÿÿÿ
+<squid:S1948"(Make "writer" transient or serializable.(Š†Î|
+Hsquid:S1068".Remove this unused "controller" private field.(š·Âëüÿÿÿÿ
+Asquid:S1602",Remove useless curly braces around statement(Ì”¹†
+Fsquid:S1612",Replace this lambda with a method reference.(Ø‚•ýûÿÿÿÿ
+Ysquid:UselessImportCheck"7Remove this unused import 'java.awt.event.ActionEvent'.(Úù“‘
+Fsquid:S1602",Remove useless curly braces around statement(ŠÒ×Úøÿÿÿÿ
+Fsquid:S1948",Make "controller" transient or serializable.(š·Âëüÿÿÿÿ
+\squid:UselessImportCheck":Remove this unused import 'java.awt.event.ActionListener'.(Ìä¹
+fsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÐžÇ8ï„‹¦²,

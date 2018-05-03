@@ -1,0 +1,13 @@
+
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(©ñÁûÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(øºÑûúÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(®Î¹íıÿÿÿÿ
+msquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(ƒûôüÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(’Ø¸¡üÿÿÿÿ
+?squid:S1181"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+asquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(«‡é§ûÿÿÿÿ
+:squid:S1181"%Catch Exception instead of Throwable.(Ñ´¯

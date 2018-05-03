@@ -1,0 +1,9 @@
+
+Hsquid:S1068".Remove this unused "controller" private field.(š·Âëüÿÿÿÿ
+Fsquid:S1612",Replace this lambda with a method reference.(Ø‚•ýûÿÿÿÿ
+csquid:MaximumInheritanceDepth"<This class has 6 parents which is greater than 5 authorized.(Ùì²ç
+Fsquid:S1948",Make "controller" transient or serializable.(š·Âëüÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÇžÈüÿÿÿÿ
+@squid:S1602",Remove useless curly braces around statement(É…º}
+fsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÐžÇ8ÆÊ‰¦²,

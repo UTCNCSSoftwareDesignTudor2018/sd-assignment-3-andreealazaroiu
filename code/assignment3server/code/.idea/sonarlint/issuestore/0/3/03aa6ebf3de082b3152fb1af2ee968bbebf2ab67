@@ -1,0 +1,16 @@
+
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(–¸ù’
+asquid:S1192"GDefine a constant instead of duplicating this literal "writer" 3 times.(àˆõ×úÿÿÿÿ
+Ksquid:S2440"1Remove this instantiation of "ConnectionFactory".(Š™ş†şÿÿÿÿ
+usquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ç€ñüÿÿÿÿ
+csquid:S1192"IDefine a constant instead of duplicating this literal "abstract" 3 times.(«¸¤şÿÿÿÿ
+Ksquid:S2440"1Remove this instantiation of "ConnectionFactory".(Š™ş†şÿÿÿÿ
+Ksquid:S2440"1Remove this instantiation of "ConnectionFactory".(Š™ş†şÿÿÿÿ
+bsquid:S1192"HDefine a constant instead of duplicating this literal "article" 4 times.(òÜ½Ğùÿÿÿÿ
+Ksquid:S2440"1Remove this instantiation of "ConnectionFactory".(Š™ş†şÿÿÿÿ
+[squid:S1192"FDefine a constant instead of duplicating this literal "title" 5 times.(çğß•
+Jsquid:S2209"5Change this instance-reference to a static reference.(‘ÕÌ
+Jsquid:S2209"5Change this instance-reference to a static reference.(‘ÕÌ
+Jsquid:S2209"5Change this instance-reference to a static reference.(‘ÕÌ
+Jsquid:S2209"5Change this instance-reference to a static reference.(‘ÕÌ
